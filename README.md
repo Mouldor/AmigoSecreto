@@ -1,10 +1,4 @@
 <h1 align="center"> Jogo do Amigo Secreto </h1>
-# Índice 
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 # descrição-do-projeto 
 Desafio Trello do Amigo Secreto tem como objetivo praticar o basico de programacao em JavaScript!
@@ -24,3 +18,6 @@ Concluido
 - ``HTML``
 - ``CSS``
 - ``VSCODE``
+
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
