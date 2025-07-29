@@ -20,4 +20,4 @@ Concluido
 - ``VSCODE``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Mouldor/AmigoSecreto.git).
+Você pode acessar os arquivos do projeto clicando [aqui](https://mouldor.github.io/AmigoSecreto/).
